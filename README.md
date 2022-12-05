@@ -11,6 +11,12 @@ Vous travaillez chez "La poule qui chante", une entreprise française d'agroalim
 * Ratio_prot_animale
 * Stabilité_politique
 
+### Étapes
+* Nettoyage des données
+* Centrage-réduction des données
+* Analyse en composantes principales
+* Clustering (classification ascendante hiérarchique et Kmeans)
+
 ### Compétences
 * Explorer des données pour synthétiser des variables
 * Effectuer un clustering simple
