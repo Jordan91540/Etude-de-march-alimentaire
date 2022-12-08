@@ -1,7 +1,7 @@
 # Etude-de-marche-alimentaire
 Étude de marché pour l'exportation de volailles
 
-### Contexte
+### Mise en situation
 Vous travaillez chez "La poule qui chante", une entreprise française d'agroalimentaire qui souhaite se développer à l'international. Votre objectif sera de proposer une première analyse des groupements de pays que l'on peut cibler pour exporter nos poulets.
 
 ### Données brutes
