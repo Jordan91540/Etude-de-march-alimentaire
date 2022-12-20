@@ -1,4 +1,4 @@
-# Etude-de-marche-alimentaire
+# Étude de marche alimentaire
 ## Étude de marché pour l'exportation de volailles
 
 *Projet réalisé dans le cadre de ma formation Openclassrooms*  
